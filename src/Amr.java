@@ -1,6 +1,6 @@
 
 public class Amr {
-
+		//commit 2
 	public static void main (String args[]) {     
 		Motorcycle m = new Motorcycle();     
 		m.make = "Yamaha RZ350";
